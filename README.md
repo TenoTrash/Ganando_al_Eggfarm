@@ -5,6 +5,8 @@ Es necesario contar con lo siguiente:
 - Raspberry Pi Pico o bien Pi Pico W
 - Pulsadores
 - Cable OTG necesario para el celular a usar
+
+https://play.google.com/store/apps/details?id=com.auxbrain.egginc&pcampaignid=web_share
  
 <img src=https://github.com/TenoTrash/Ganando_al_Eggfarm/blob/main/2023-11-13%2010.34.20.jpg>
 
